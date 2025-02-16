@@ -3,7 +3,7 @@
 <table>
    <tr>
       <td>
-         <h3>👋 Hello! I'm [Your Name]</h3>
+         <h3>👋 Hello! I'm Alexandre Julião</h3>
          🎓 <b>Cadet at <a href="https://www.42sp.org.br/">École 42 São Paulo</a></b>
          🌍 <b>Part of the <a href="https://42.fr/">42 Network</a></b> – A global and innovative programming school
          💻 Passionate about technology, programming, and innovation. Always eager to learn and improve!
